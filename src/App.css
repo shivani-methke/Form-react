@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+body{
+ background-color:powderblue ;
+}
+.shivani{
+  width: 60vw;
+  height: 3vh;
+}
+.shivani1{
+  width: 60vw;
+  height: 3vh;
+
+}
+.password{
+  width: 60vw;
+  height: 3vh;
+
+}
+.confirm{
+  width: 60vw;
+  height: 3vh;
+}
+.dob{
+  width: 60vw;
+  height: 3vh;
+}
+.Address{
+  width: 60vw;
+  height: 3vh;
+  
+}
+.form{
+  width: 70vw;
+  height: 70vh;
+
+
+}
